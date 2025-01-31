@@ -1,5 +1,5 @@
 {
-  "name": "image-detection-api",
+  "name": "ai-2025-api",
   "version": "1.1.0",
   "description": "API for Image Detection Application",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vargaae/face-recognition.git"
+    "url": "git+https://github.com/vargaae/ai-2025-api.git"
   },
   "author": "Andras Varga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vargaae/face-recognition/issues"
+    "url": "https://github.com/vargaae/ai-2025-api/issues"
   },
-  "homepage": "https://github.com/vargaae/face-recognition#readme",
+  "homepage": "https://github.com/vargaae/ai-2025-api#readme",
   "dependencies": {
     "axios": "^1.7.9",
     "bcrypt-nodejs": "^0.0.3",
